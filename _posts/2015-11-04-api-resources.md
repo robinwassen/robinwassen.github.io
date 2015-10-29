@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "List of great REST API resources"
+title:  "Great REST API resources"
 date:   2015-11-04
 ---
 
