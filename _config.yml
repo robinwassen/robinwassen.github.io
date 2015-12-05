@@ -1,0 +1,11 @@
+# Site settings
+title: Robin Anderssons World Wide Web
+email: me@robinwassen.com
+description: Robin Anderssons World Wide Web
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.robinwassen.com" # the base hostname & protocol for your site
+twitter_username: robinwassen
+github_username:  robinwassen
+
+# Build settings
+markdown: kramdown

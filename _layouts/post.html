@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<header>
+	<h1 class="title">{{ page.title }}</h1>
+	<p class="text-center">Robin Andersson<br /> Björnsonsgatan 142<br />168 44, Bromma</p>
+	<p class="text-center">{{ page.date | date: "%B %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+</header>
+
+<article class="post-content">
+	{{ content }}
+</article>
+
+<footer>
+	<p>
+		Regards, </br>
+		Robin Andersson
+	</p>
+
+	<hr />
+
+	<p>Find me at: <a href="#">GitHub</a>, <a href="#">Stack Overflow</a>, <a href="#">LinkedIn</a></p>
+	<p>Contact me at: me [at] robinwassen.com</p>
+</footer>
