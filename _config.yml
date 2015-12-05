@@ -1,23 +1,11 @@
-title: Robin Andersson
-description: Robin Andersson's personal blog
+# Site settings
+title: Robin Anderssons World Wide Web
+email: me@robinwassen.com
+description: Robin Anderssons World Wide Web
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.robinwassen.com" # the base hostname & protocol for your site
+twitter_username: robinwassen
+github_username:  robinwassen
 
-url: http://brianmaierjr.github.com/long-haul
-baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
-
-markdown: redcarpet
-highlighter: pygments
-paginate: 5
-
-navigation:
- - title: Home
-   url: /index.html
-
-social:
-   github: robinwassen
-   twitter: robinwassen
-   facebook: robinwassen
-   email: me@robinwassen.com
-
-google_analytics: ""
+# Build settings
+markdown: kramdown
