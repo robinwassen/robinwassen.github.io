@@ -6,15 +6,15 @@ permalink: /author/
 
 ## 1. Brief description of me and the blog
 
-Self-taught software engineer that enjoy learning new things. I have a taste for learning foundations and reusable knowledge instead of keeping up with the latest trends.
+Self-taught software engineer that enjoy learning new things. I prefer to learn foundations and reusable knowledge instead of keeping up with the latest trends.
 
-Currently I build software for education at [DigiExam](https://www.digiexam.se), previously worked as an IT-consultant in finance, telco and online gaming industries.
+Currently I build software for education at [DigiExam](https://www.digiexam.se), previously worked as an IT-consultant in the finance, telco and online gaming industries.
 
-Everything that I write on this blog is my personal thoughts and opinions and should not be associated with my work.
+Everything that I write on this blog are my personal thoughts and opinions and should not be associated with my work.
 
 ## 2. Sources of inspiration
 
-Some books and people have been a real inspiration to me and I list them in hope that someone else will look into them and get inspired the way I did.
+Some books and people has been a real inspiration to me and I list them in hope that someone else will look into them and get inspired the way I did.
 
 ### 2.1 Inspirational books
 
