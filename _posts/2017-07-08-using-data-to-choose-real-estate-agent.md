@@ -44,3 +44,5 @@ Om man använder den högst presterande mäklaren för 2017 för att sälja en t
 Slutsatser man kan dra av detta är att valet av mäklare verkar spela en större roll vid försäljning än kostnadsskillnaden mellan mäklare (+/- 20 000kr). Notar har även en enorm marknadsdominans i området som tyvärr gör statistiken över andra mäklare opålitlig.
 
 Jag kommer gå vidare med mitt ursprungliga val av Notar som mäklare för försäljningen av min bostad. De har presterat bra historiskt, gjort ett bra intryck på mig samt att de har en stor volym i området vilket borde innebära att de har koll på hur man säljer en lägenhet effektivt. Data kunde åtminstone indikera att jag inte gör ett felaktigt val.
+
+Om man vill få en säkrare analys kan man öka storleken på datasettet genom att inte segmentera periodvis, utan istället normalisera värdena för den allmänna prisökningen och på så sätt kunna inkludera objekt från längre perioder. Men det lämnar jag som en övning för en annan gång.
