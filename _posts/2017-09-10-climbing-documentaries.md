@@ -8,7 +8,7 @@ Recently watched a bunch of climbing documentaries, so felt like compiling a lis
 
 Most descriptions and all images are borrowed from the movie sources, if you don't want me to use your text or want to add some documentary, feel free to shoot me an e-mail.
 
-## Cerro Torre (01h 38min, Red Bull)
+## Cerro Torre (1h 38min, Red Bull)
 
 ![Image of Cerro Torre movie](/img/climbing-movies-cerro-torre.jpg)
 
@@ -16,7 +16,7 @@ Most descriptions and all images are borrowed from the movie sources, if you don
 
 Set against the breathtaking backdrop of Patagonia, climbing wunderkind David Lama and climbing partner Peter Ortner set out to free climb the infamous southeast face of Cerro Torre, a route once said to be the most difficult in the world.
 
-## Roraima - Climbers of the lost world (01h 37min, Red Bull)
+## Roraima - Climbers of the lost world (1h 37min, Red Bull)
 
 ![Image of Roraima movie](/img/climbing-movies-roraima.jpg)
 
@@ -24,7 +24,7 @@ Set against the breathtaking backdrop of Patagonia, climbing wunderkind David La
 
 Climbing partners Kurt Albert and Holger Heuber don't know what they're in for when they join competitive climbing superstar Stefan Glowacz for an expedition to Mt. Roraima, a steep-walled South American peak shrouded in both rainforest and legend.
 
-## Valley Uprising (01h 43min, Sender Films)
+## Valley Uprising (1h 43min, Sender Films)
 
 ![Image of Roraima movie](/img/climbing-movies-valley-uprising.jpg)
 
@@ -80,3 +80,29 @@ Climbing dream team Alex Honnold, Mark Synnott, and Jimmy Chin face rugged cliff
 A gripping adventure into the world of cutting edge rock and ice climbing documenting what is possible with a ground up, no pre-practice approach resulting in raw, compelling and often frightening footage. The climbers in this film aren’t necessarily the strongest but they have the biggest kahooners(!); willing to take a 30 foot fall for the ultimate on sight ascent.
 
 [Added by /u/InappropriateAlias](https://www.reddit.com/r/climbing/comments/6z9hf6/climbing_documentaries_list_to_keep_your_psych_up/dmtk62b/?st=j7f1x8y2&sh=0de6ab91)
+
+## The Real Thing (53min, Steep Edge)
+
+![Image of The Real Thing](/img/climbing-movies-the-real-thing.jpg)
+
+[Watch on Steep Edge's website](https://steepedge.com/categories/bouldering-films-movies/the-real-thing.html)
+
+The Real Thing is the first feature length bouldering movie ever made. Britain's top rock climbers Jerry Moffatt and Ben Moon take you on a rollercoaster road trip from the classic gritstone crags of the UK's Peak District to the mecca of European and World climbing in Fontainebleau, France.
+
+Also starring climbing hero Sean Myles, the late and great Kurt Albert and French climbing legend Marc Le Menestrel.
+
+A must watch for all boulderers, with an unforgettable pumping soundtrack.
+
+[Added by /u/01stewartn](https://www.reddit.com/r/climbing/comments/6z9hf6/climbing_documentaries_list_to_keep_your_psych_up/dmtm7kr/?st=j7f3mwkr&sh=c101489c)
+
+## Hard Grit (1h 4min, Steep Edge)
+
+![Image of Hard Grit](/img/climbing-movies-hard-grit.jpg)
+
+[Watch on Steep Edge's website](https://steepedge.com/categories/bouldering-films-movies/hard-grit.html)
+
+Full of crazy characters attempting very dangerous routes it abounds with dark humour and dark fear. Includes one of the most bone-crunching falls ever captured on film. Watch it now!
+
+Winner of ten awards on the world Mountain Film Festival circuit. Including wins at Kendal, G Fest, Graz & Torello.
+
+[Added by /u/01stewartn](https://www.reddit.com/r/climbing/comments/6z9hf6/climbing_documentaries_list_to_keep_your_psych_up/dmtm7kr/?st=j7f3mwkr&sh=c101489c)
