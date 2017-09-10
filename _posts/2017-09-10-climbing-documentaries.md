@@ -2,6 +2,7 @@
 layout: post
 title:  "Climbing documentaries"
 date:   2017-09-10
+image: "/img/climbing-movies-cerro-torre.jpg"
 ---
 
 Recently watched a bunch of climbing documentaries, so felt like compiling a list to help you keep your psych up during your rest day.
