@@ -4,7 +4,7 @@ title:  "Climbing documentaries"
 date:   2017-09-10
 ---
 
-Recently watched a bunch of climbing documentaries, so felt like compiling a list to help you keep your psych up during rest day.
+Recently watched a bunch of climbing documentaries, so felt like compiling a list to help you keep your psych up during your rest day.
 
 ## Cerro Torre (01h 38min, Red Bull)
 
