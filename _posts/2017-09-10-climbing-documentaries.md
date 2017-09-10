@@ -65,3 +65,4 @@ Some must see's are: S01E05 Wide Boyz and S03E01 Boys in the bugs
 [Watch on National Geographic](http://video.nationalgeographic.com/video/ng-live/chin-honnold-synnott-climbing-lecture-nglive)
 
 Climbing dream team Alex Honnold, Mark Synnott, and Jimmy Chin face rugged cliffs, knife-wielding thieves, and deadly waters as they traverse the globe searching for the next great rock to climb.
+
