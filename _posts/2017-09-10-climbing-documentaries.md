@@ -67,3 +67,16 @@ Some must see's are: S01E05 Wide Boyz and S03E01 Boys in the bugs
 [Watch on National Geographic](http://video.nationalgeographic.com/video/ng-live/chin-honnold-synnott-climbing-lecture-nglive)
 
 Climbing dream team Alex Honnold, Mark Synnott, and Jimmy Chin face rugged cliffs, knife-wielding thieves, and deadly waters as they traverse the globe searching for the next great rock to climb.
+
+
+## On Sight (52min, Posing Productions)
+
+![Image of To Climb the World](/img/climbing-movies-on-sight.jpg)
+
+[Watch on Amazon (with Vaporvue)](https://www.amazon.com/Sight-Posing-Productions/dp/B00DAF0CHS)
+
+[Watch on Vimeo on Demand](https://vimeo.com/ondemand/onsight)
+
+A gripping adventure into the world of cutting edge rock and ice climbing documenting what is possible with a ground up, no pre-practice approach resulting in raw, compelling and often frightening footage. The climbers in this film aren’t necessarily the strongest but they have the biggest kahooners(!); willing to take a 30 foot fall for the ultimate on sight ascent.
+
+[Added by /u/InappropriateAlias](https://www.reddit.com/r/climbing/comments/6z9hf6/climbing_documentaries_list_to_keep_your_psych_up/dmtk62b/?st=j7f1x8y2&sh=0de6ab91)
