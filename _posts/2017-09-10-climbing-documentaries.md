@@ -6,6 +6,8 @@ date:   2017-09-10
 
 Recently watched a bunch of climbing documentaries, so felt like compiling a list to help you keep your psych up during your rest day.
 
+Most descriptions and all images are borrowed from the movie sources, if you don't want me to use your text or want to add some documentary, feel free to shoot me an e-mail.
+
 ## Cerro Torre (01h 38min, Red Bull)
 
 ![Image of Cerro Torre movie](/img/climbing-movies-cerro-torre.jpg)
@@ -65,4 +67,3 @@ Some must see's are: S01E05 Wide Boyz and S03E01 Boys in the bugs
 [Watch on National Geographic](http://video.nationalgeographic.com/video/ng-live/chin-honnold-synnott-climbing-lecture-nglive)
 
 Climbing dream team Alex Honnold, Mark Synnott, and Jimmy Chin face rugged cliffs, knife-wielding thieves, and deadly waters as they traverse the globe searching for the next great rock to climb.
-
