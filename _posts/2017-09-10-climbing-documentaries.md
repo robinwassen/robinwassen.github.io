@@ -9,6 +9,8 @@ Recently watched a bunch of climbing documentaries, so felt like compiling a lis
 
 Most descriptions and all images are borrowed from the movie sources, if you don't want me to use your text or want to add some documentary, feel free to shoot me an e-mail.
 
+Last updated: 2017-09-11
+
 ## Cerro Torre (1h 38min, Red Bull)
 
 ![Image of Cerro Torre movie](/img/climbing-movies-cerro-torre.jpg)
@@ -107,3 +109,144 @@ Full of crazy characters attempting very dangerous routes it abounds with dark h
 Winner of ten awards on the world Mountain Film Festival circuit. Including wins at Kendal, G Fest, Graz & Torello.
 
 [Added by /u/01stewartn](https://www.reddit.com/r/climbing/comments/6z9hf6/climbing_documentaries_list_to_keep_your_psych_up/dmtm7kr/?st=j7f3mwkr&sh=c101489c)
+
+## El Capitan Remastered (60min, 1978, 	Fred Padula)
+
+![Image of El Capitan Remastered](/img/climbing-movies-el-capitan.png)
+
+[Available to buy from El Capitan, the film](http://www.elcapfilm.com/buy-the-film.html)
+
+El Capitan is a film by filmmaker Fred Padula that captures one of the earliest ascents of The Nose on El Capitan in Yosemite Valley, California. It has won several awards at film festivals around the world.
+
+[Added by /u/CrackJammer](https://www.reddit.com/r/climbing/comments/6z9hf6/climbing_documentaries_list_to_keep_your_psych_up/dmu0r6l/?st=j7ge5vvg&sh=21c0e81b)
+
+## First Ascent - The Complete Series (6x 23min, 2010, Sender Films)
+
+![Image of First Ascent - The Complete Series](/img/climbing-movies-first-ascent.jpg)
+
+[Available to stream on Vimeo on Demand or buy from Sender Films](http://senderfilms.com/productions/details/811/First-Ascent-The-Complete-Series)
+
+First Ascent (2010) is Sender Films' groundbreaking 6-part series that takes you to the cutting edge of adventure. Produced over two years on five continents. First Ascent follows the greatest climbers to majestic locations around the globe on their quests to redefine what is possible in the mountains. 
+
+[Added by /u/CrackJammer](https://www.reddit.com/r/climbing/comments/6z9hf6/climbing_documentaries_list_to_keep_your_psych_up/dmu0r6l/?st=j7ge5vvg&sh=21c0e81b)
+
+## Dosage (5x 1h 20min, 2001 - 2008, Big UP Productions)
+
+[Dosage I - Available to buy from Sender Films](http://senderfilms.com/productions/details/1239/Dosage-Volume-I)
+
+[Dosage II - Available to buy from Sender Films](http://senderfilms.com/productions/details/1240/Dosage-Volume-II)
+
+[Dosage III - Available to buy from Sender Films](http://senderfilms.com/productions/details/1241/Dosage-Volume-III)
+
+[Dosage IV - Available to buy from Sender Films](http://senderfilms.com/productions/details/1242/Dosage-Volume-IV)
+
+[Dosage V - Available to buy from Sender Films](http://senderfilms.com/productions/details/1243/Dosage-Volume-V)
+
+[Added by /u/CrackJammer](https://www.reddit.com/r/climbing/comments/6z9hf6/climbing_documentaries_list_to_keep_your_psych_up/dmu0r6l/?st=j7ge5vvg&sh=21c0e81b)
+
+## E11 (41min, 2006, Hot Aches Production)
+
+![Image of E11](/img/climbing-movies-e11.jpg)
+
+[See availability at Hot Aches Production](http://www.hotaches.com/climbing-films/e11/)
+
+E11 tells the story behind the first ascent of Rhapsody, a route considered to be the hardest traditional rock climb in the world. Told in an offbeat dramadoc style the film attempts to understand what it takes to climb a route of this standard. E11 strives to get inside the head of its first ascentionist, the understated yet quite remarkable Dave MacLeod. Oh yeah, it's also packed full of ankle smashing, gear ripping, monster falls!
+
+[Added by /u/CrackJammer](https://www.reddit.com/r/climbing/comments/6z9hf6/climbing_documentaries_list_to_keep_your_psych_up/dmu0r6l/?st=j7ge5vvg&sh=21c0e81b)
+
+## King Lines (60min, 2007, Big UP Productions)
+
+![Image of King Lines](/img/climbing-movies-king-lines.jpg)
+
+[Available to stream on Vimeo on Demand or buy from Sender Films](http://senderfilms.com/productions/details/812/King-Lines)
+
+[Short 40 min version available on Red Bull TV, Reel Rock](https://www.redbull.tv/video/AP-1N4VMRA3H1W11/king-lines-part-1?playlist=AP-1MD65N6X92111:season:1)
+
+The best-selling climbing film of all time. Follow Chris Sharma on his ultimate global quest to redefine the possible in the vertical world. Includes his first ascent of Es Pontas, the still-unrepeated Mediterranean deep-sea arch. Co-produced by Sender Films and Big UP Productions.
+
+[Added by /u/CrackJammer](https://www.reddit.com/r/climbing/comments/6z9hf6/climbing_documentaries_list_to_keep_your_psych_up/dmu0r6l/?st=j7ge5vvg&sh=21c0e81b)
+
+## Masters of Stone (6x 1h, 1991 - 2009, Steep Edge)
+
+[Masters of Stone 1 - Available to buy and rent from Steep Edge](https://steepedge.com/categories/climbing-films-movies/masters-of-stone-1.html)
+
+[Masters of Stone 2 - Available to buy and rent from Steep Edge](https://steepedge.com/categories/climbing-films-movies/masters-of-stone-2-hard-rock.html)
+
+[Masters of Stone 3 - Available to buy and rent from Steep Edge](https://steepedge.com/categories/climbing-films-movies/masters-of-stone-3-third-stone-from-the-sun.html)
+
+[Masters of Stone 4 - Available to buy and rent from Steep Edge](https://steepedge.com/categories/climbing-films-movies/masters-of-stone-4-pure-force.html)
+
+[Masters of Stone 5 - Available to buy and rent from Steep Edge](https://steepedge.com/categories/climbing-films-movies/masters-of-stone-5.html)
+
+[Masters of Stone 6 - Available to buy and rent from Steep Edge](https://steepedge.com/categories/climbing-films-movies/masters-of-stone-6-breakthrough.html)
+
+
+[Added by /u/CrackJammer](https://www.reddit.com/r/climbing/comments/6z9hf6/climbing_documentaries_list_to_keep_your_psych_up/dmu0r6l/?st=j7ge5vvg&sh=21c0e81b)
+
+## The Sharp End (1h 3m, 2008, Sender Films)
+
+![Image of The Sharp End](/img/climbing-movies-the-sharp-end.jpg)
+
+[See availability at Sender Films](http://senderfilms.com/productions/details/813/The-Sharp-End)
+
+Enter the danger zone with the world's best climbers, including Alex Honnold, Dean Potter, Steph Davis, Lisa Rands, Chris McNamara, Ammon McNeely, Renan Ozturk, Cedar Wright and others, as they push the barriers of free soloing, high-ball bouldering, hard trad climbing, extreme big-wall aid, wingsuit BASE flying, high lining and tower jumping in the wildest spots on earth.
+
+[Added by /u/CrackJammer](https://www.reddit.com/r/climbing/comments/6z9hf6/climbing_documentaries_list_to_keep_your_psych_up/dmu0r6l/?st=j7ge5vvg&sh=21c0e81b)
+
+## Wide Boyz 1 & 2 (2x 50min, Hot Aches)
+
+![Image of The Sharp End](/img/climbing-movies-wide-boyz.jpg)
+
+[Available to stream on Vimeo on Demand or buy from Hot Aches Production](http://www.hotaches.com/climbing-films/wide-boyz/)
+
+[Watch short 20 min version of Wide Boyz is available on Red Bull TV, Reel Rocks](https://www.redbull.tv/video/AP-1N4VMAJPH1W11/wide-boyz?playlist=Climbing)
+
+The world of offwidth crack climbing is a strange sub-culture rumoured to be dominated by knuckle-dragging, bar-brawling dirt-bags! The climbing is tough,painful and bloody. Two climbers from England, Pete Whittaker and Tom Randall, set out to explore this world and climb the world’s hardest offwidths. They complete a brutal two-year training regime, mostly spent hanging upside down in a suburban Sheffield basement, before embarking on a tour of the USA. The tour culminates in the first ascent of the ultimate offwidth test piece, Century Crack, the world’s hardest offwidth.
+
+[Added by /u/CrackJammer](https://www.reddit.com/r/climbing/comments/6z9hf6/climbing_documentaries_list_to_keep_your_psych_up/dmu0r6l/?st=j7ge5vvg&sh=21c0e81b)
+
+## Monkey See Monkey Do (1h 4min, 2009, Hot Aches)
+
+![Image of The Sharp End](/img/climbing-movies-monkey-see-monkey-do.jpg)
+
+[Available to stream on Vimeo on Demand or buy from Hot Aches Production](http://www.hotaches.com/climbing-films/monkey-see-monkey-do/)
+
+This collection of four films features world class climbing from the UK, Canada and Madagascar.
+
+[Added by /u/CrackJammer](https://www.reddit.com/r/climbing/comments/6z9hf6/climbing_documentaries_list_to_keep_your_psych_up/dmu0r6l/?st=j7ge5vvg&sh=21c0e81b)
+
+## Committed Vol I & II (1h 17min & 1h 46min, 2007 & 2008, Hot Aches)
+
+![Image of The Sharp End](/img/climbing-movies-committed.jpg)
+
+[Committed Vol I - Available to stream on Vimeo on Demand or buy from Hot Aches Production](http://www.hotaches.com/climbing-films/committed-vol-1/)
+
+[Committed Vol II - Available to stream on Vimeo on Demand or buy from Hot Aches Production](http://www.hotaches.com/climbing-films/committed-vol-2/)
+
+The multi award winning Hot Aches team present – a year at the cutting edge of hardcore trad climbing.Featuring Britain's best rock climbers, plus top overseas visitors, Committed packs in over 200 'E' points of action: the hardest and most dangerous ascents that have been grabbing the climbing headlines across the world.
+
+[Added by /u/CrackJammer](https://www.reddit.com/r/climbing/comments/6z9hf6/climbing_documentaries_list_to_keep_your_psych_up/dmu0r6l/?st=j7ge5vvg&sh=21c0e81b)
+
+## Stick It (53min, 2001, Slackjaw)
+
+[Rent or buy on Steep Edge's website](https://steepedge.com/categories/bouldering-films-movies/stick-it.html)
+
+If you have, or are ever going to, boulder in the UK then this is the film to see. It takes you to all the best places using all the best climbers as you tour guide. Energetic and at times hilarious, this joyful romp is accompanied by a quirky, exciting soundtrack. Infectious, fun stuff that will unfortunately leave you wanting to pack in work and take a road trip all of your own.
+
+[Added by /u/CrackJammer](https://www.reddit.com/r/climbing/comments/6z9hf6/climbing_documentaries_list_to_keep_your_psych_up/dmu0r6l/?st=j7ge5vvg&sh=21c0e81b)
+
+## The Hills Have Allies - An Irish Bouldering Film (28min, 2016, David Fitzgerald)
+
+![Image of The Hills Have Allies](/img/climbing-movies-the-hills-have-allies.jpg)
+
+[Watch on Vimeo](https://vimeo.com/175203095)
+
+Quote from the movie author:
+
+This video aims to highlight the passion in the Irish bouldering scene. Over time, I began to obsess over personal progress. It was with this that I discovered the beauty in projecting lines at my limit. The Wicklow mountains have always held such intrigue in my mind. 
+
+I soon began to explore the rural landscape, throwing myself at the established test pieces. When I began climbing over three years ago, I dreamed of the effort required to succeed on such lines. Over the course of my discovery, with the help of others and a portion of self-taught practice, I began to adapt to the climbing style and embraced the projecting mentality. 
+
+Spanning two years worth of effort, culminating last Spring, this is the product of that dream.
+
+[Added by /u/CrackJammer](https://www.reddit.com/r/climbing/comments/6z9hf6/climbing_documentaries_list_to_keep_your_psych_up/dmu0r6l/?st=j7ge5vvg&sh=21c0e81b)
