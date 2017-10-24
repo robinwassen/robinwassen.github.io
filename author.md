@@ -4,11 +4,11 @@ title: Author
 permalink: /author/
 ---
 
-## 1. Brief description of me and the blog
+## 1. Brief description of me
 
 Self-taught software engineer that enjoy learning new things. I prefer to learn foundations and reusable knowledge instead of keeping up with the latest trends.
 
-Currently I build software for education at [DigiExam](https://www.digiexam.se), previously worked as an IT-consultant in the finance, telco and online gaming industries.
+Currently I build software for education at [DigiExam](https://www.digiexam.se), previously worked as an IT-consultant in the finance, telco and online gaming industries. In my freetime I enjoy poking around in open source projects and do some rock climbing, so I write about that too.
 
 Everything that I write on this blog are my personal thoughts and opinions and should not be associated with my work.
 
