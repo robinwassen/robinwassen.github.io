@@ -7,7 +7,7 @@ image: "/img/raspberry-pi.jpg"
 
 **Current status:** The components has been ordered
 
-This blog post will explain the process of building a surveilance system using Raspberry Pi for when people steal gas from my car. I tried to limit the purchase of components to things that I will reuse in other places in my home when this issue has been resolved.
+This blog post will explain the process of building a surveillance system using Raspberry Pi for when people steal gas from my car. I tried to limit the purchase of components to things that I will reuse in other places in my home when this issue has been resolved.
 
 At three different occasions last year someone broke into the fuel tank of my car, siphoned the gas and threw away the cap. Back then I lived in a socioeconomic weaker area of Stockholm, so I hoped that I would avoid that problem when I moved to a better area this winter. But last weekend it happened again, so I decided to do something to mitigate it.
 
@@ -15,9 +15,9 @@ At three different occasions last year someone broke into the fuel tank of my ca
 
 The overall plan is to add a trigger on the gas lid that activates a Raspberry Pi, the RPI is located behind the head rest in the backseat to start record using a camera without an IR filter. Power will be drawn from the car battery.
 
-### Surveilance laws in Sweden
+### Surveillance laws in Sweden
 
-In Sweden you need permission from the county council to perform surveillance in a public area. I called the Swedish police to ask about advice if my plan for surveilance was allowed, the response that I got was that it was kind of okay since the surveillance will be very limited (only trigged by someone actually stealing gas) and restricted to a small area of the parking lot outside my condo.
+In Sweden you need permission from the county council to perform surveillance in a public area. I called the Swedish police to ask about advice if my plan for surveillance was allowed, the response that I got was that it was kind of okay since the surveillance will be very limited (only trigged by someone actually stealing gas) and restricted to a small area of the parking lot outside my condo.
 
 ### The components
 
