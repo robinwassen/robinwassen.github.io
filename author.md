@@ -24,13 +24,13 @@ There is also a whole domain that is extremly challenging and very specific to u
 
 ### 2.2 Sparta Sales (2013 - 2018)
 
-Sparta Sales was started by a friend of mine that has a background in sales and marketing, I mentored him when he was building and shipping the MVP of the platform and got the role as advisor to the company. In 2017 I also invested in Sparta Sales. Sparta was acquired by Lime Technologies in April 2018.
+Sparta Sales was started by a friend of mine that has a background in sales and marketing, I mentored him when he was building and shipping the MVP and got the role as advisor to the company. In 2017 I also invested in Sparta Sales. Sparta was acquired by Lime Technologies in April 2018.
 
 Technology used to build the MVP was PHP and MySQL.
 
 ### 2.3 Attach.io (2014 - 2017)
 
-Attach started as a weekend project that me and a product designer friend did, we built the MVP over a short period of time in Ruby on Rails. My motivation of doing the project
+Attach started as a weekend project that me and a product designer friend did, we built the MVP over a short period of time in Ruby on Rails. My motivation for doing the project was to do something fun and explore Ruby on Rails.
 
 The project was then given to a friend that used it to start a company and recruit a technical co-founder. I was not involved in operations of the company to avoid conflict of interest, instead took the role as advisor. Supported with second opinion during recruitment of technical candidates and guidance with how to build an integration with Microsoft Outlook.
 
