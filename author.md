@@ -30,7 +30,7 @@ Technology used to build the MVP was PHP and MySQL.
 
 ### 2.3 Attach.io (2014 - 2017)
 
-Attach started as a weekend project that me and a product designer friend did, we built the MVP over a short period of time in Ruby on Rails. My motivation for doing the project was to do something fun and explore Ruby on Rails.
+Attach started as a weekend project that me and a product designer friend did, we built the MVP over a short period of time in Ruby on Rails. My motivation for doing the project was experiment with Ruby on Rails and having the joy of doing a new small project.
 
 The project was then given to a friend that used it to start a company and recruit a technical co-founder. I was not involved in operations of the company to avoid conflict of interest, instead took the role as advisor. Supported with second opinion during recruitment of technical candidates and guidance with how to build an integration with Microsoft Outlook.
 
