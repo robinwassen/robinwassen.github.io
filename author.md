@@ -4,34 +4,70 @@ title: Author
 permalink: /author/
 ---
 
-## 1. Brief description of me
+**Name:** Robin Andersson<br>
+**Born:** 1988-09-20<br>
+**Address:** Allévägen 14B, 16752, Bromma, Sweden
 
-Self-taught software engineer that enjoy learning new things. I prefer to learn foundations and reusable knowledge instead of just keeping up with the latest trends.
+I enjoy working in open source projects, most of the time my contributions consists of solving problems in existing projects rather than publishing my own. The best place to explore my contributions is my [GitHub](https://github.com/robinwassen) profile.
 
-Currently I build software for education at [DigiExam](https://www.digiexam.se), previously worked as an IT-consultant in the finance, telco and online gaming industries. In my freetime I enjoy poking around in open source projects and go rock climbing, so I write about that too.
+## Experience
 
-Everything that I write on this blog are my personal thoughts and opinions and should not be associated with my work.
+### DigiExam (2012 - Current)
 
-## 2 Projects I have been involved in
+**CTO, Stockholm, Sweden**
 
-### 2.1 DigiExam (2012 - 2018)
+I started my work on DigiExam as a consultant in 2012, took the role as CTO in 2013. The role as CTO has changed a lot as the company has grown. In the early days the role was basically to be a solo developer, gradually the role grew into building a product team, act as the face outwards for the product development and support the organization working with technology.
 
-I started my work on DigiExam as a consulant in 2012 and then took the role as CTO in 2013. The role as CTO has changed a lot as the company has grown. In the beginning it was basically to be a solo developer building the backend, frontend and native apps, it gradually moved towards building a team, acting as the face outwards for the product development and supporting other people working with the product and technology.
+- Client applications built using AngularJS running in Electron on macOS and Windows, as a Chrome app on Chrome OS and in a custom WKWebView wrapper on iOS. Using numerous custom-built Node-modules written in C/C++/Objective-C++.
 
-It is a fun project to work on, DigiExam is a heavy Google Cloud Platform user which is a nice platform to work with. Go turned out to be a great choice for writing the backend and building native apps using Electron is a joy.
+- Backend written in Go running on Google Cloud Platform. Using services such as App Engine, Datastore, BigQuery, Pub/Sub and Elastic search.
 
-There is also a whole domain that is extremly challenging and very specific to us, it is to technically solve the problem with prevent students from cheating at exams.
+- Using Continuous Integration with Travis CI and AppVeyor to build, test and deploy the backend and client applications.
 
-### 2.2 Sparta Sales (2013 - 2018)
+### Sparta Sales (2013 - 2018)
 
-Sparta Sales was started by a friend of mine that has a background in sales and marketing, I mentored him when he was building and shipping the MVP and got the role as advisor to the company. In 2017 I also invested in Sparta Sales. Sparta was acquired by Lime Technologies in April 2018.
+**Advisor and Investor, Stockholm, Sweden**
 
-Technology used to build the MVP was PHP and MySQL.
+Sparta Sales was started by a friend of mine that had a background in sales and marketing, I mentored him when he was building and shipping the MVP, got the role as advisor when the company was founded. In 2017 I invested in Sparta Sales.
 
-### 2.3 Attach.io (2014 - 2017)
+Sparta was acquired by Lime Technologies in April 2018.
 
-Attach started as a weekend project that me and a product designer friend did, we built the MVP over a short period of time in Ruby on Rails. My motivation for doing the project was experiment with Ruby on Rails and having the joy of doing a new small project.
+### Attach.io (2014 - 2017)
 
-The project was then given to a friend that used it to start a company and recruit a technical co-founder. I was not involved in operations of the company to avoid conflict of interest, instead took the role as advisor. Supported with second opinion during recruitment of technical candidates and guidance with how to build an integration with Microsoft Outlook.
+**Advisor, Stockholm, Sweden**
 
-Technology used to build the MVP was Ruby on Rails, MySQL, docsplit and Heroku.
+Attach was a for-fun weekend project that me and a product designer did, we built a MVP in Ruby on Rails and AngularJS running on Heroku. The project was taken over by two people that founded a company around it.
+I took the role as advisor to the company and supported with second opinion during recruitment of technical candidates and supported with building an Microsoft Outlook integration in C#.
+
+Attach.io was acquired by Cirrus Insight in November 2017.
+
+### Freelancing (2008 - 2013)
+
+**Developer, Stockholm, Sweden**
+
+Shipped numerous projects on tight budgets. Most of the projects were to configure Wordpress sites, implement themes based on design mockups and build small plugins.
+
+Other projects included building an interactive 3D globe with travel destinations using three.js and a SCORM-compatible corporate learning course using Flash.
+
+### Arcadelia (2010 - 2013)
+
+**Full Stack Developer, Stockholm, Sweden**
+
+Worked both as a consultant on external projects and developer on in-house projects. I am thankful that I got this position as my first since the responsibility and variety of projects shaped me as a developer.
+
+Notable projects:
+- Maintained and developed an skill gaming platform (C# / ASP.NET Web Forms)
+- Maintained browser games for the skill gaming platform (Flash)
+- Designed and developed an cash gaming engine for scratchers and slots (C# / ASP.NET MVC), TST Global Certified
+- Designed and developed an iPhone application for accounting (Objective-C)
+- Designed and developed an Android application for HVAC calculations (Java)
+- Designed and developed an platform to "Integrate once, run everywhere" for online games to run on Facebook, VK and Kongregate (C# / ASP.NET MVC)
+- Developed two Facebook games, one tower defense and one travel quiz game (Flash)
+- Designed and developed the DigiExam desktop application (C# / WPF) and web front end (AngularJS)
+
+### Transcom (2007 - 2008)
+**Technical Support, Karlskoga, Sweden**
+
+Technical support for Bredbandsbolaget which is a major ISP in Sweden.
+
+Resolved issues with internet access, router configurations, VOIP and IPTV. Administrated networking equipment from Cisco and Ericsson.
