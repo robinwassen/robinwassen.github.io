@@ -68,6 +68,14 @@ li {
 	text-align: center;
 }
 
+.pull-right {
+	float: right;
+}
+
+.avoid-page-break {
+	page-break-inside: avoid;
+}
+
 table {
 	font-family: verdana,arial,sans-serif;
 	font-size:11px;
@@ -94,6 +102,12 @@ table td {
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "syntax-highlighting"
-;
+@import "syntax-highlighting";
+
+@media print
+{
+	.no-print, .no-print *
+	{
+		display: none !important;
+	}
+}

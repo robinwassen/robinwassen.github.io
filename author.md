@@ -1,73 +1,97 @@
 ---
 layout: page
-title: Author
+title: Robin Andersson
 permalink: /author/
 ---
 
-**Name:** Robin Andersson<br>
 **Born:** 1988-09-20<br>
-**Address:** Allévägen 14B, 16752, Bromma, Sweden
+**Email:** me [at] robinwassen.com<br>
+**Phone:** +46 70-48 14 613<br>
+**Address:** Allévägen 14B, 167 52, Bromma, Sweden<br>
+**Other:** [GitHub](https://github.com/robinwassen), [Twitter](https://twitter.com/robinwassen)
 
-I enjoy working in open source projects, most of the time my contributions consists of solving problems in existing projects rather than publishing my own. The best place to explore my contributions is my [GitHub](https://github.com/robinwassen) profile.
+I enjoy working in open source projects, my contributions mostly consists of solving problems in existing projects rather than publishing my own. The best place to explore my OSS contributions is my [GitHub](https://github.com/robinwassen) profile.
 
-## Experience
+<div markdown="1" class="avoid-page-break">
 
-### DigiExam (2012 - Current)
+## Professional Experience
 
-**CTO, Stockholm, Sweden**
+### DigiExam, CTO <span class="pull-right">2013 - Current</span>
 
-I started my work on DigiExam as a consultant in 2012, took the role as CTO in 2013. The role as CTO has changed a lot as the company has grown. In the early days the role was basically to be a solo developer, gradually the role grew into building a product team, act as the face outwards for the product development and support the organization working with technology.
+- Designed and developed the backend in Go running on Google Cloud Platform. Using services such as App Engine, Datastore, BigQuery, Pub/Sub and Elastic search.
+- Designed and developed client applications for macOS, Windows, Chrome OS and iOS using Electron and AngularJS. Involved extending Electron and the WKWebView wrapper with native implementations in C / C++ / Objective-C++.
+- Setup continuous integration with Travis CI and AppVeyor to build, test and deploy the backend and client applications.
+- Recruited and coached the product development team. Setup SCRUM as development methodology.
+- Setup and coached the organization in a business intelligence solution using Looker and BigQuery.
+- Setup internal IT-systems such as JIRA, Confluence, G-Suite and office networks.
+- Defined and documented information security routines.
 
-- Client applications built using AngularJS running in Electron on macOS and Windows, as a Chrome app on Chrome OS and in a custom WKWebView wrapper on iOS. Using numerous custom-built Node-modules written in C/C++/Objective-C++.
+</div>
 
-- Backend written in Go running on Google Cloud Platform. Using services such as App Engine, Datastore, BigQuery, Pub/Sub and Elastic search.
+<div markdown="1" class="avoid-page-break">
 
-- Using Continuous Integration with Travis CI and AppVeyor to build, test and deploy the backend and client applications.
-
-### Sparta Sales (2013 - 2018)
-
-**Advisor and Investor, Stockholm, Sweden**
-
-Sparta Sales was started by a friend of mine that had a background in sales and marketing, I mentored him when he was building and shipping the MVP, got the role as advisor when the company was founded. In 2017 I invested in Sparta Sales.
+### Sparta Sales, Advisor and Investor <span class="pull-right">2013 - 2018</span>
 
 Sparta was acquired by Lime Technologies in April 2018.
 
-### Attach.io (2014 - 2017)
+- Coached the founder of Sparta Sales when he built the MVP of the product using PHP, MySQL and Heroku.
+- Invested in Sparta Sales in 2017.
 
-**Advisor, Stockholm, Sweden**
+</div>
 
-Attach was a for-fun weekend project that me and a product designer did, we built a MVP in Ruby on Rails and AngularJS running on Heroku. The project was taken over by two people that founded a company around it.
-I took the role as advisor to the company and supported with second opinion during recruitment of technical candidates and supported with building an Microsoft Outlook integration in C#.
+<div markdown="1" class="avoid-page-break">
+
+### Attach.io, Advisor <span class="pull-right">2014 - 2017</span>
 
 Attach.io was acquired by Cirrus Insight in November 2017.
 
-### Freelancing (2008 - 2013)
+- Developed the MVP of the product using Ruby on Rails, AngularJS, docsplit, and Heroku.
+- Developed an integration to the desktop version of Microsoft Outlook using C#.
+- Supported with second opinions during the recruitment of technical candidates.
 
-**Developer, Stockholm, Sweden**
+</div>
 
-Shipped numerous projects on tight budgets. Most of the projects were to configure Wordpress sites, implement themes based on design mockups and build small plugins.
+<div markdown="1" class="avoid-page-break">
 
-Other projects included building an interactive 3D globe with travel destinations using three.js and a SCORM-compatible corporate learning course using Flash.
+### Arcadelia, Developer <span class="pull-right">2010 - 2013</span>
 
-### Arcadelia (2010 - 2013)
+- Maintained and developed a skill gaming platform using C# and ASP.NET Web Forms
+- Maintained browser games for the skill gaming platform using Flash
+- Designed and developed a TST Global Certified cash gaming engine for scratchers and slots using C# and ASP.NET MVC
+- Designed and developed an iPhone application for accounting using Objective-C
+- Designed and developed an Android application for HVAC calculations using Java
+- Designed and developed a platform to "Integrate once, run everywhere" for online games to run on Facebook, VK and Kongregate using C# / ASP.NET MVC
+- Developed two Facebook games, one tower defense and one travel quiz game using Flash
+- Designed and developed the DigiExam desktop application using C# / WPF and web front end using AngularJS
 
-**Full Stack Developer, Stockholm, Sweden**
+</div>
 
-Worked both as a consultant on external projects and developer on in-house projects. I am thankful that I got this position as my first since the responsibility and variety of projects shaped me as a developer.
+<div markdown="1" class="avoid-page-break">
 
-Notable projects:
-- Maintained and developed an skill gaming platform (C# / ASP.NET Web Forms)
-- Maintained browser games for the skill gaming platform (Flash)
-- Designed and developed an cash gaming engine for scratchers and slots (C# / ASP.NET MVC), TST Global Certified
-- Designed and developed an iPhone application for accounting (Objective-C)
-- Designed and developed an Android application for HVAC calculations (Java)
-- Designed and developed an platform to "Integrate once, run everywhere" for online games to run on Facebook, VK and Kongregate (C# / ASP.NET MVC)
-- Developed two Facebook games, one tower defense and one travel quiz game (Flash)
-- Designed and developed the DigiExam desktop application (C# / WPF) and web front end (AngularJS)
+### Freelancing, Developer <span class="pull-right">2008 - 2013</span>
 
-### Transcom (2007 - 2008)
-**Technical Support, Karlskoga, Sweden**
+- Developed themes from PSD designs and plugins for Wordpress. Configured multiple Wordpress sites on both Linux and Windows based servers.
+- Developed a 3D world map with travel destinations using three.js.
+- Developed a SCORM-compatible corporate learning course using Flash.
 
-Technical support for Bredbandsbolaget which is a major ISP in Sweden.
+</div>
 
-Resolved issues with internet access, router configurations, VOIP and IPTV. Administrated networking equipment from Cisco and Ericsson.
+<div markdown="1" class="avoid-page-break">
+
+### Transcom, Technical Support <span class="pull-right">2007 - 2008</span>
+
+- Provided technical support for and resolved issues with internet access, router configurations, VOIP and IPTV for customers of the ISP Bredbandsbolaget.
+- Administrated networking equipment from Cisco and Ericsson.
+
+</div>
+
+<div markdown="1" class="avoid-page-break">
+
+## Education
+
+### Bergslagsskolan, High School Engineering <span class="pull-right">2004 - 2007</span>
+
+- Courses in CAD, construction, C#, web development, operating systems and networking.
+- Assisted teachers in technical subjects.
+
+</div>
