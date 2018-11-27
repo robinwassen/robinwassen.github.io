@@ -1,0 +1,22 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<h1>EF YouTube Kanal</h1>
+		<h2>data.xml</h2>
+		<p>data.xml innehåller följande data:</p>
+		<ul>
+			<li>categories - En kategori är i praktiken en åldersgrupp för filtret, går att lägga till eller ta bort som man vill (förutom All som är hårt definerad).</li>
+			<li>groups - En grupp är en punkt på kartan, exempelvis är Sydney en grupp. Det enda fältet för grupper som kan vara lite oklart är "welcomeVideoId", det är youtube-idt på filmen som ska visas när man klickar på kartnålen. Även det klippet som man hamnar på om man trycker på länken längst nere i höger på videofönstret (står "Los Angeles >" eller "Sydney >" där i testdatan)</li>
+			<li>
+				videos - En youtube-film helt enkelt, lite information behöver anges direkt i XML:en för klienten ska slippa skicka för många anrop till YouTubes API:er. Dock hämtas resterande data som visningar direkt från YouTube.<br />
+				<br />
+				En video kan tillhöra en grupp men flera kategorier, filtret fungerar så att om det inte finns några filmer i gruppen (staden) som tillhör filtret (åldersgruppen) döljs staden från kartan.
+			</li>
+		</ul>
+		
+		<h2>Övrigt</h2>
+		<p>Det finns ingen serverlogik överhuvudtaget, utan allt är skrivet i Javascript, därför kommer det inte att ställas några speciella krav på hostingen. Utan det är bara att packa upp filerna på en webbserver och länka in {url}/frame.htm från YouTube kanalen</p>
+	
+	</body>
+</html>

@@ -1,0 +1,404 @@
+body {
+	background-color: #ededed;
+	padding: 0;
+	margin: 0;
+	font-family: Helvetica, Arial;
+}	
+
+h3 {
+	font-size: 10px;
+	margin: 0;
+	color: #212121;
+	font-weight: normal;
+}
+
+h4 {
+	font-size: 9px;
+	margin: 0;
+	color: #898989;
+}
+
+a {
+	text-decoration: none;	
+}
+
+a:hover h3 {
+	color: #666;
+}
+a:hover h4 {
+	color: #AAAAAA;
+}
+
+.template {
+	display: none !important; 
+}
+
+#tooltip, #slidertooltip {
+	padding: 2px 5px;
+	background-color: #FFF;
+	border: 1px solid RGBA(200,200,200,120);
+	position: absolute;
+	z-index: 10;
+	display: none;
+	font-size: 13px;
+	border-radius: 3px;
+}
+
+.video-window {
+	width: 652px;
+	height: 357px;
+	background-color: #2e2e2e;
+	position: absolute;
+	top: 24px;
+	left: 170px;
+	box-shadow: 7px 7px 10px RGBA(0,0,0, 0.4);
+	z-index: 10;
+	display: none;
+}
+
+	.video {
+		width: 483px;
+		height: 294px;
+		background-color: black;
+		margin: 10px 10px;
+	}
+	
+	.video-window h3 {
+		margin: 5px 12px;
+		font-size: 14px;
+		color: #cccccc;
+	}
+	
+	.video-window h4 {
+		margin: 5px 12px;
+	}
+	
+	.views {
+		margin: 0px 12px;
+		font-size: 14px;
+		color: #666666;
+		float: right;			
+	}
+	
+	.video-right-bar {
+		float: right;
+		width: 149px;
+		height: 100%;
+		background-color: #FFF;
+		position: relative;
+	}
+		.related-videos-container {
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 21px;
+			overflow: hidden;			
+		}
+		
+		.related-videos-container ul {
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			height: 4000px;
+			list-style: none;
+			margin: 0;
+			padding: 0;			
+		}
+			.related-videos-container .thumb-wrapper {
+				border: 1px solid #eeefef;
+				height: 88px;
+				margin: 10px 22px 10px 8px;
+				border-radius: 1px;
+				margin-bottom: 2px;
+				overflow: hidden;
+				position: relative;
+			}						
+			.related-videos-container .thumb-wrapper img { width: 118px; height: 88px; position: absolute; top: 0px; left: 0px; }
+		
+		.video-right-bar .related-scroll-wrapper
+		{
+			position: absolute;
+			top: 0px;			
+			right: 0;
+			bottom: 21px;
+			background: url('./i/related-scroll-bg.png') no-repeat top left;
+			width: 15px;
+		}
+		
+			.video-right-bar .slide-area {
+				position: absolute;
+				top: 54px;			
+				right: 0;
+				bottom: 48px;
+				width: 15px;
+				z-index: 30;
+			}
+				
+				.video-right-bar .slide-area .ui-slider-handle {
+					width: 13px;
+					height: 88px;
+					position: absolute;			
+					right: 0;
+					margin-bottom: -44px;
+					background: url('./i/related-scroll-handle.png') no-repeat top left;
+				}
+		
+		.video-right-bar .see-more-link {
+			position: absolute;
+			height: 21px;
+			width: 134px;
+			background: url('./i/video-lower-right-button.png') repeat-x top left;
+			bottom: 0;
+			font-size: 10px;
+			color: #FFF;
+			line-height: 19px;
+			padding-left: 15px;
+			
+		}
+
+.map-wrapper {
+	border-top: 5px solid #0b4a6d;
+	border-bottom: 5px solid #0b4a6d;
+	height: 444px;
+	background: #dedace url('./i/map-background.jpg') no-repeat top left;
+	position: relative;
+}
+	#map {
+		width: 970px;
+		height: 444px;
+		position: relative;
+		overflow: hidden;
+	}
+	
+		#map .map-canvas {
+			position: absolute;
+			top: 0;
+			left: 0;			
+			height: 1012px;
+			width: 2000px;
+			cursor: hand;
+		}
+		
+			.map-canvas .map-point {
+				position: absolute;
+				width: 27px;
+				height: 46px;
+				background: url('./i/pin.png') no-repeat top left;
+				margin-top: -46px;
+				margin-left: -13px;
+			}
+			
+			.map-point:hover {				
+				cursor: pointer;
+			}
+
+			.map-canvas img {
+				width: 2000px;
+				height: 1012px;
+			}
+
+	.zoom-wrapper {
+		position: absolute;
+		width: 3px;
+		height: 160px;
+		top: 23px;
+		left: 23px;
+		z-index: 30;
+		display: none;
+	}
+	
+	.zoom-background
+	{
+		background: url('./i/zoom-bar-background.png') no-repeat;
+		position:absolute;
+		width:3px;
+		height:128px;
+		left:6px;
+		top:16px;
+	}
+	
+		.zoom-button {
+			width: 17px;
+			height: 17px;
+			position: absolute;
+			cursor:pointer;
+		}				
+			
+			.zoom-button.plus {
+				background: url('./i/zoom-button-plus.png') no-repeat top left;
+				top: 0;
+			}
+			
+			.zoom-button.minus {
+				background: url('./i/zoom-button-minus.png') no-repeat top left;
+				bottom: 0;
+			}
+			
+		.zoom-slide-area
+		{
+			position: absolute;
+			top: 25px;
+			left: 0;
+			right: 0;
+			bottom: 25px;
+		}
+			
+			.zoom-slide-area .ui-slider-handle {
+				width: 20px;
+				height: 11px;
+				position: absolute;			
+				left: -2px;
+				margin-bottom: -6px;
+				background: url('./i/zoom-scroll.png') no-repeat top left;
+			}
+	
+	.category-button-wrapper {
+		position: absolute;
+		bottom: 23px;
+		left: 23px;
+		z-index: 10;
+		width: 250px;
+		
+	}
+	.age-slider-label
+	{
+		position:absolute;
+		background: url('./i/age-slider-label.png') no-repeat;
+		width: 42px;
+		height: 24px;
+		top:4px;
+	}
+		.category-button-wrapper .slider-container {
+			
+			/*background-color: #333;*/
+			background: url('./i/age-slider-bg.png') no-repeat;
+			height: 18px; 
+			margin: 8px 2px -3px 55px; 
+			border-radius: 2px;
+			display: block;			
+		}
+	
+		.category-button-wrapper a {
+			height: 21px;
+			display: inline-block;
+			line-height: 21px;
+			width: 50px;
+			text-align: center;
+			float: left;			
+		}
+	
+			.category-button-wrapper a .left-part {
+				width: 8px;
+				background: url('./i/filter-button-left.png') no-repeat top left;
+				height: 100%;
+				float: left;
+			}
+			
+			.category-button-wrapper a .right-part {
+				width: 8px;
+				background: url('./i/filter-button-right.png') no-repeat top left;
+				height: 100%;
+				float: right;
+			}
+			
+			.category-button-wrapper a p {
+				margin: 0 8px;
+				padding: 0 5px;
+				background: url('./i/filter-button-middle.png') repeat-x top left;
+				font-size: 11px;
+				color: #FFF;
+				font-weight: bold;
+			}
+		
+		.category-button-wrapper .ui-slider { position: relative; text-align: left; height: 30px; width:120px; margin:13px; cursor:pointer; }		
+		.category-button-wrapper .ui-slider .ui-slider-handle { position: absolute; z-index: 2; width: 16px; height: 17px; margin-left: -8px; cursor: pointer; background: url('./i/scroll-dot.png') no-repeat top left; top: 1px; }
+		.ui-slider-handle:focus { outline: none; }
+
+.featured-videos-wrapper {
+	height: 165px;
+	background-color: #FFF;
+	margin: 23px 10px;
+	position: relative;
+	z-index: 5;
+}
+
+	.featured-ribbon { /* Will need click through */
+		width: 125px;
+		height: 125px;
+		position: absolute;
+		top: -7px;
+		left: -7px;
+		pointer-events: none;
+		background: url('./i/featured-ribbon.png') no-repeat top left;
+		z-index: 4;
+		*filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='your_transparent.png', sizingMethod='scale');
+		*background: none !important;
+	}
+	
+	.featured-videos-container {					
+		overflow: hidden;
+		height: 154px;
+		position: relative;
+	}
+				
+		.featured-videos-container h3, .featured-videos-container h4 {
+			margin-left: 3px;
+			margin-right: 3px;
+		}
+		
+		.white-fadeout {
+			z-index: 3;
+			position: absolute;
+			top: 0;
+			bottom: 0;
+			width: 19px;
+			background-color: red;
+		}
+		
+		.white-fadeout.left {
+			background: url('./i/white-fadeout-left.png') repeat-y top left;
+			left: 0;
+		}
+		
+		.white-fadeout.right {
+			background: url('./i/white-fadeout-right.png') repeat-y top left;
+			right: 0;
+		}
+		
+	
+		.featured-videos-container ul {			
+			margin: 0;
+			padding: 0 7px;
+			height: 154px;
+			width: 4000px;
+			position: absolute;
+			z-index: 2;
+		}
+		
+			.featured-videos-container ul li {
+				display: inline-block;
+				width: 192px;
+				margin: 12px 7px 0;
+				vertical-align: top;				
+			}
+			
+				.thumb-wrapper {
+					border: 1px solid #eeefef;
+					height: 109px;
+					border-radius: 2px;
+					margin-bottom: 2px;
+					overflow: hidden;
+					position: relative;
+				}						
+				.thumb-wrapper img { width: 200px; height: 150px; position: absolute; top: -21px; left: -6px; }
+		
+	.featured-videos-scroll-wrapper {
+		background: #d6d6d6 url('./i/scroll-background.png') no-repeat top left;		
+		height: 13px;
+		padding: 0 13px;
+	}	
+		.featured-videos-scroll-wrapper .ui-slider { position: relative; text-align: left; height: 13px; margin: 0 39px; cursor:pointer; }		
+		.featured-videos-scroll-wrapper .ui-slider .ui-slider-handle { position: absolute; z-index: 2; width: 78px; height: 13px; margin-left: -39px; cursor: pointer; background: url('./i/scroll-handle.png') no-repeat top left; }
+		.featured-videos-scroll-wrapper .ui-slider .ui-slider-handle:focus { outline: none; }

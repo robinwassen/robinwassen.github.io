@@ -1,0 +1,1180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<settings xmlns='http://www.w3.org/2005/Atom'>
+	<categories>
+		<category>14-17</category>
+		<category>16-24</category>
+		<category>25+</category>		
+	</categories>	
+	
+	<groups>
+		<!-- The UK & Ireland -->
+		<group>
+			<name>Manchester</name>
+			<welcomeVideoId>Q1nlVwsUu8I</welcomeVideoId>
+			<lat>54.2807125</lat>
+			<lng>-4.1144359</lng>
+		</group>
+		<group>
+			<name>Cambridge</name>
+			<welcomeVideoId>NEI-52a3YTo</welcomeVideoId>
+			<lat>52.654834</lat>
+			<lng>-1.3522225</lng>
+		</group>
+		<group>
+			<name>Brighton</name>
+			<welcomeVideoId>soQY4-HFX9I</welcomeVideoId>
+			<lat>48.5167899</lat>
+			<lng>-1.1115978</lng>
+		</group>
+		<group>
+			<name>London</name>
+			<welcomeVideoId>JYHmEuoyrPw</welcomeVideoId>
+			<lat>49.4048443</lat>
+			<lng>0.6577901</lng>
+		</group>
+		<group>
+			<name>Torquay</name>
+			<welcomeVideoId>Q25A4mtwRFw</welcomeVideoId>
+			<lat>50.4517705</lat>
+			<lng>-3.5579061</lng>
+		</group>
+		<group>
+			<name>Eastbourne</name>
+			<welcomeVideoId>Q25A4mtwRFw</welcomeVideoId>
+			<lat>50.7668678</lat>
+			<lng>8.2848044</lng>
+		</group>
+		<group>
+			<name>Bournemouth</name>
+			<welcomeVideoId>kmC3bQUVhS8</welcomeVideoId>
+			<lat>48.7216814</lat>
+			<lng>-3.6785266</lng>
+		</group>
+		<group>
+			<name>Plymouth</name>
+			<welcomeVideoId>Q25A4mtwRFw</welcomeVideoId>
+			<lat>50.3703805</lat>
+			<lng>-4.4426530</lng>
+		</group>
+		<group>
+			<name>Bristol</name>
+			<welcomeVideoId>xcOyat3KCaY</welcomeVideoId>
+			<lat>49.9753284</lat>
+			<lng>-7.2919131</lng>
+		</group>
+		<group>
+			<name>Edinburgh</name>
+			<welcomeVideoId>Q25A4mtwRFw</welcomeVideoId>
+			<lat>55.9532520</lat>
+			<lng>-3.1882670</lng>
+		</group>
+		<group>
+			<name>Dublin</name>
+			<welcomeVideoId>yzNDVHR3tqw</welcomeVideoId>
+			<lat>53.9494426</lat>
+			<lng>-9.5600825</lng>
+		</group>
+		<group>
+			<name>Oxford</name>
+			<welcomeVideoId>kXbQnI1aa2Q</welcomeVideoId>		
+			<lat>51.7522764</lat>
+			<lng>-5.2558243</lng>	
+		</group>
+		<group>
+			<name>Hastings</name>
+			<welcomeVideoId>Q25A4mtwRFw</welcomeVideoId>		
+			<lat>50.8542590</lat>
+			<lng>1.2734530</lng>	
+		</group>
+
+		<!-- Malta -->
+		<group>
+			<name>St. Julian’s</name>
+			<welcomeVideoId>RUMESTt6EXY</welcomeVideoId>		
+			<lat>34.8186548</lat>
+			<lng>20.3899017</lng>	
+		</group>
+		<group>
+			<name>St. Paul’s Bay</name>
+			<welcomeVideoId>Q25A4mtwRFw</welcomeVideoId>		
+			<lat>35.9449960</lat>
+			<lng>14.2114983</lng>	
+		</group>
+		<group>
+			<name>Gozo</name>
+			<welcomeVideoId>Q25A4mtwRFw</welcomeVideoId>		
+			<lat>37.0442999</lat>
+			<lng>14.2512221</lng>	
+		</group>
+
+		<!-- USA -->
+		<group>
+			<name>Los Angeles</name>
+			<welcomeVideoId>m4vm7LCxzC0</welcomeVideoId>		
+			<lat>34.0522342</lat>
+			<lng>-118.9436849</lng>	
+		</group>
+		<group>
+			<name>Long Beach</name>
+			<welcomeVideoId>Q25A4mtwRFw</welcomeVideoId>		
+			<lat>33.7669259</lat>
+			<lng>-118.1890249</lng>	
+		</group>
+		<group>
+			<name>San Francisco</name>
+			<welcomeVideoId>DrLNmSZ1Q44</welcomeVideoId>		
+			<lat>39.9749412</lat>
+			<lng>-122.0194305</lng>	
+		</group>
+		<group>
+			<name>San Diego</name>
+			<welcomeVideoId>lUo5zGstakw</welcomeVideoId>		
+			<lat>32.2253301</lat>
+			<lng>-116.457414</lng>	
+		</group>
+		<group>
+			<name>Miami Beach</name>
+			<welcomeVideoId>m6h4lveFmEk</welcomeVideoId>		
+			<lat>24.5906540</lat>
+			<lng>-78.5300455</lng>	
+		</group>
+		<group>
+			<name>New York</name>
+			<welcomeVideoId>jx-rw5pBq2g</welcomeVideoId>		
+			<lat>38.7142691</lat>
+			<lng>-70.0060372</lng>	
+		</group>
+		<group>
+			<name>Seattle</name>
+			<welcomeVideoId>UYncQ8QmmPs</welcomeVideoId>		
+			<lat>44.9062095</lat>
+			<lng>-120.3320708</lng>	
+		</group>
+		<group>
+			<name>New England</name>
+			<welcomeVideoId>Q25A4mtwRFw</welcomeVideoId>		
+			<lat>46.5391751</lat>
+			<lng>-102.8682231</lng>	
+		</group>
+		<group>
+			<name>Atlanta</name>
+			<welcomeVideoId>VgJ1It7Oaek</welcomeVideoId>		
+			<lat>30.749259</lat>
+			<lng>-82.388132</lng>	
+		</group>
+		<group>
+			<name>Austin</name>
+			<welcomeVideoId>VgJ1It7Oaek</welcomeVideoId>		
+			<lat>29.2670956</lat>
+			<lng>-94.7430817</lng>	
+		</group>
+		<group>
+			<name>Boston</name>
+			<welcomeVideoId>TRVbqjv4Lh0</welcomeVideoId>		
+			<lat>39.3584308</lat>
+			<lng>-68.55962</lng>	
+		</group>
+		<group>
+			<name>Chicago</name>
+			<welcomeVideoId>MZEglYL5WLA</welcomeVideoId>		
+			<lat>40.2862465</lat>
+			<lng>-85.1946943</lng>	
+		</group>
+		<group>
+			<name>Honolulu</name>
+			<welcomeVideoId>nJU9z-1ObKM</welcomeVideoId>		
+			<lat>19.9069444</lat>
+			<lng>-157.0183333</lng>	
+		</group>
+		<group>
+			<name>Santa Barbara</name>
+			<welcomeVideoId>PxRz3Z-NOPg</welcomeVideoId>		
+			<lat>35.9208305</lat>
+			<lng>-120.1981901</lng>	
+		</group>
+
+
+		<!-- Canada -->
+		<group>
+			<name>Toronto</name>
+			<welcomeVideoId>uQiWiY5Nz-s</welcomeVideoId>		
+			<lat>42.1702318</lat>
+			<lng>-75.2967607</lng>	
+		</group>
+		<group>
+			<name>Vancouver</name>
+			<welcomeVideoId>K8kba15boQ4</welcomeVideoId>		
+			<lat>47.9912260</lat>
+			<lng>-121.1139268</lng>	
+		</group>
+
+		<!-- Australia & New Zealand -->
+		<group>
+			<name>Sydney</name>
+			<welcomeVideoId>Q25A4mtwRFw</welcomeVideoId>		
+			<lat>-34.567269</lat>
+			<lng>155.1069223</lng>	
+		</group>
+		<group>
+			<name>Cairns</name>
+			<welcomeVideoId>Q25A4mtwRFw</welcomeVideoId>		
+			<lat>-16.925303</lat>
+			<lng>145.774731</lng>	
+		</group>
+		<group>
+			<name>Auckland</name>
+			<welcomeVideoId>Vmw1KigLNhk</welcomeVideoId>		
+			<lat>-37.4555301</lat>
+			<lng>179.4934402</lng>	
+		</group>
+		<group>
+			<name>Brisbane</name>
+			<welcomeVideoId>bG-5RPYNVNs</welcomeVideoId>		
+			<lat>-31.4975800</lat>
+			<lng>156.7278920</lng>	
+		</group>
+		<group>
+			<name>Melbourne</name>
+			<welcomeVideoId>ThPesFGecJE</welcomeVideoId>		
+			<lat>-38.8136111</lat>
+			<lng>149.9630556</lng>	
+		</group>
+
+		<!-- Spain -->
+		<group>
+			<name>Barcelona</name>
+			<welcomeVideoId>IpQK1EvuIhI</welcomeVideoId>		
+			<lat>39.5879431</lat>
+			<lng>5.9698895</lng>	
+		</group>	
+		<group>
+			<name>Malaga</name>
+			<welcomeVideoId>lOOogPITyIw</welcomeVideoId>		
+			<lat>34.9196459</lat>
+			<lng>-0.399854</lng>	
+		</group>	
+		<group>
+			<name>Madrid</name>
+			<welcomeVideoId>Q25A4mtwRFw</welcomeVideoId>		
+			<lat>40.4166909</lat>
+			<lng>-3.7004378</lng>	
+		</group>	
+
+		<!-- Costa Rica -->
+		<group>
+			<name>Costa Rica</name>
+			<welcomeVideoId>Q25A4mtwRFw</welcomeVideoId>		
+			<lat>10.2990800</lat>
+			<lng>-85.8421100</lng>	
+		</group>			
+
+		<!-- Deutschland -->
+		<group>
+			<name>Lindau</name>
+			<welcomeVideoId>Q25A4mtwRFw</welcomeVideoId>		
+			<lat>47.5574728</lat>
+			<lng>9.7071356</lng>	
+		</group>		
+		<group>
+			<name>Munich</name>
+			<welcomeVideoId>d079ZG-HdUk</welcomeVideoId>		
+			<lat>44.7391265</lat>
+			<lng>15.8801863</lng>	
+		</group>	
+
+		<!-- France -->		
+		<group>
+			<name>St. Raphaël</name>
+			<welcomeVideoId>Q25A4mtwRFw</welcomeVideoId>		
+			<lat>43.4252609</lat>
+			<lng>6.7682437</lng>	
+		</group>		
+		<group>
+			<name>Nice</name>
+			<welcomeVideoId>rk8DF7Jon6k</welcomeVideoId>		
+			<lat>41.2034273</lat>
+			<lng>10.8662749</lng>	
+		</group>	
+		<group>
+			<name>Paris</name>
+			<welcomeVideoId>VzBQqmWIRCw</welcomeVideoId>		
+			<lat>48.2566667</lat>
+			<lng>9.150476</lng>	
+		</group>
+
+		<!-- South Africa -->
+		<group>
+			<name>Cape Town</name>
+			<welcomeVideoId>0lhwV62iKAM</welcomeVideoId>		
+			<lat>-33.5248685</lat>
+			<lng>23.1240553</lng>	
+		</group>	
+
+		<!-- Singapore -->
+		<group>
+			<name>Singapore</name>
+			<welcomeVideoId>EJpsDZN6bNo</welcomeVideoId>		
+			<lat>1.3520830</lat>
+			<lng>108.323154</lng>	
+		</group>	
+
+		<!-- Italy -->
+		<group>
+			<name>Rome</name>
+			<welcomeVideoId>K_Rz473Ons4</welcomeVideoId>		
+			<lat>39.1957462</lat>
+			<lng>16.7015116</lng>	
+		</group>	
+
+		<!-- China! -->
+		<group>
+			<name>Shanghai</name>
+			<welcomeVideoId>vicy97Bq4Ck</welcomeVideoId>		
+			<lat>28.1007080</lat>
+			<lng>125.703328</lng>	
+		</group>	
+		<group>
+			<name>Beijing</name>
+			<welcomeVideoId>Q25A4mtwRFw</welcomeVideoId>		
+			<lat>39.904211</lat>
+			<lng>116.407413</lng>	
+		</group>
+
+		<!-- Japan -->
+		<group>
+			<name>Tokyo</name>
+			<welcomeVideoId>Q25A4mtwRFw</welcomeVideoId>		
+			<lat>32.924644</lat>
+			<lng>144.808683</lng>	
+		</group>
+	</groups>
+	
+	<videos>
+	
+		<video>
+			<title>EF Málaga - Teaser</title>
+			<group>Costa Rica</group>
+			<featured>false</featured>
+			<youTubeId>lOOogPITyIw</youTubeId>			
+			<categories>
+				<category>14-17</category>	
+				<category>16-24</category>				
+			</categories>
+		</video>
+		
+		<video>
+			<title>EF Brighton - Teaser</title>
+			<group>Brighton</group>
+			<featured>false</featured>
+			<youTubeId>soQY4-HFX9I</youTubeId>			
+			<categories>
+				<category>14-17</category>	
+				<category>16-24</category>				
+			</categories>
+		</video>
+		<video>
+			<title>EF Brighton, England, UK</title>
+			<group>Brighton</group>
+			<featured>false</featured>
+			<youTubeId>SwjgvmaH7gs</youTubeId>			
+			<categories>
+				<category>14-17</category>	
+				<category>16-24</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>EF London - Teaser</title>
+			<!--<group>London</group>-->
+			<group></group>
+			<featured>false</featured>
+			<youTubeId>JYHmEuoyrPw</youTubeId>			
+			<categories>
+				<category>14-17</category>
+				<category>25+</category>
+			</categories>
+		</video>
+		<video>
+			<title>EF London, England - UK</title>
+			<!--<group>London</group>-->
+			<group>London</group>
+			<featured>false</featured>
+			<youTubeId>3S6RmAf02wo</youTubeId>			
+			<categories>
+				<category>14-17</category>		
+				<category>25+</category>		
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to EF Bournemouth</title>
+			<group>Bournemouth</group>
+			<featured>false</featured>
+			<youTubeId>kmC3bQUVhS8</youTubeId>			
+			<categories>
+				<category>14-17</category>		
+				<category>16-24</category>			
+			</categories>
+		</video>
+		<video>
+			<title>EF Bournemouth, England, UK</title>
+			<group>Bournemouth</group>
+			<featured>false</featured>
+			<youTubeId>_WkF1M7PP8Q</youTubeId>			
+			<categories>
+				<category>14-17</category>	
+				<category>16-24</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to EF Dublin</title>
+			<group>Dublin</group>
+			<featured>false</featured>
+			<youTubeId>yzNDVHR3tqw</youTubeId>			
+			<categories>
+				<category>14-17</category>
+				<category>16-24</category>					
+			</categories>
+		</video>
+		<video>
+			<title>EF Dublin, Ireland</title>
+			<group>Dublin</group>
+			<featured>false</featured>
+			<youTubeId>uU1lgkKgITg</youTubeId>			
+			<categories>
+				<category>14-17</category>	
+				<category>16-24</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>EF Oxford - Teaser</title>
+			<group>Oxford</group>
+			<featured>false</featured>
+			<youTubeId>kXbQnI1aa2Q</youTubeId>			
+			<categories>
+				<category>14-17</category>
+				<category>16-24</category>					
+			</categories>
+		</video>
+		<video>
+			<title>EF Oxford, England - UK</title>
+			<group>Oxford</group>
+			<featured>false</featured>
+			<youTubeId>gjBVQKf6Ms0</youTubeId>			
+			<categories>
+				<category>14-17</category>
+				<category>16-24</category>					
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to Bristol</title>
+			<group>Bristol</group>
+			<featured>false</featured>
+			<youTubeId>xcOyat3KCaY</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+		<video>
+			<title>EF Bristol, UK</title>
+			<group>Bristol</group>
+			<featured>false</featured>
+			<youTubeId>mFeVgDrLrz0</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to Cambridge</title>
+			<group>Cambridge</group>
+			<featured>false</featured>
+			<youTubeId>NEI-52a3YTo</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+		<video>
+			<title>EF Cambridge, UK</title>
+			<group>Cambridge</group>
+			<featured>false</featured>
+			<youTubeId>3OyOWZugxpY</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to London</title>
+			<group>London</group>
+			<featured>false</featured>
+			<youTubeId>JYHmEuoyrPw</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+		<video>
+			<title>EF London, UK</title>
+			<group>London</group>
+			<featured>false</featured>
+			<youTubeId>3S6RmAf02wo</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to Manchester</title>
+			<group>Manchester</group>
+			<featured>false</featured>
+			<youTubeId>Q1nlVwsUu8I</youTubeId>			
+			<categories>
+				<category>16-24</category>		
+				<category>25+</category>		
+			</categories>
+		</video>
+		<video>
+			<title>EF Manchester, UK</title>
+			<group>Manchester</group>
+			<featured>false</featured>
+			<youTubeId>NQ-2X_pKqb8</youTubeId>			
+			<categories>
+				<category>16-24</category>		
+				<category>25+</category>		
+			</categories>
+		</video>
+
+		<video>
+			<title>EF Malta St. Julians - Teaser</title>
+			<group>St. Julian’s</group>
+			<featured>false</featured>
+			<youTubeId>RUMESTt6EXY</youTubeId>			
+			<categories>
+				<category>14-17</category>		
+				<category>16-24</category>		
+				<category>25+</category>	
+			</categories>
+		</video>
+		<video>
+			<title>My summer in Malta with EF (ages 14-18)</title>
+			<group>St. Julian’s</group>
+			<featured>false</featured>
+			<youTubeId>AX39_GnUuLM</youTubeId>			
+			<categories>
+				<category>14-17</category>
+				<category>16-24</category>		
+				<category>25+</category>		
+			</categories>
+		</video>
+		<video>
+			<title>EF Malta - St Julians</title>
+			<group>St. Julian’s</group>
+			<featured>false</featured>
+			<youTubeId>t46eqdBr6z4</youTubeId>			
+			<categories>
+				<category>16-24</category>			
+				<category>25+</category>	
+			</categories>
+		</video>
+
+		<video>
+			<title>EF Los Angeles - Teaser</title>
+			<group>Los Angeles</group>
+			<featured>false</featured>
+			<youTubeId>m4vm7LCxzC0</youTubeId>			
+			<categories>
+				<category>14-17</category>	
+				<category>16-24</category>				
+			</categories>
+		</video>
+		<video>
+			<title>EF Los Angeles - Redondo Beach, California, USA</title>
+			<group>Los Angeles</group>
+			<featured>false</featured>
+			<youTubeId>atKqOIUw_J4</youTubeId>			
+			<categories>
+				<category>14-17</category>	
+				<category>16-24</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to EF San Francisco</title>
+			<group>San Francisco</group>
+			<featured>false</featured>
+			<youTubeId>DrLNmSZ1Q44</youTubeId>			
+			<categories>
+				<category>14-17</category>	
+				<category>16-24</category>				
+				<category>25+</category>
+			</categories>
+		</video>
+
+		<video>
+			<title>EF San Diego - Teaser</title>
+			<group>San Diego</group>
+			<featured>false</featured>
+			<youTubeId>lUo5zGstakw</youTubeId>			
+			<categories>
+				<category>14-17</category>	
+				<category>16-24</category>				
+			</categories>
+		</video>
+		<video>
+			<title>EF San Diego, California, USA</title>
+			<group>San Diego</group>
+			<featured>false</featured>
+			<youTubeId>BJY4uMZB1hc</youTubeId>			
+			<categories>
+				<category>14-17</category>
+				<category>16-24</category>					
+			</categories>
+		</video>
+
+		<video>
+			<title>EF New York - Teaser</title>
+			<group>New York</group>
+			<featured>false</featured>
+			<youTubeId>jx-rw5pBq2g</youTubeId>			
+			<categories>
+				<category>14-17</category>	
+				<category>16-24</category>				
+			</categories>
+		</video>
+		<video>
+			<title>EF New York - Tarrytown, New York, USA</title>
+			<group>New York</group>
+			<featured>false</featured>
+			<youTubeId>AAIesnAMbGc</youTubeId>			
+			<categories>
+				<category>14-17</category>	
+				<category>16-24</category>				
+			</categories>
+		</video>
+		<video>
+			<title>EF - Live the American Dream (ages 14-18)</title>
+			<group>New York</group>
+			<featured>false</featured>
+			<youTubeId>lJUdJ8aozvQ</youTubeId>			
+			<categories>
+				<category>14-17</category>		
+				<category>16-24</category>			
+			</categories>
+		</video>
+
+		<video>
+			<title>EF Seattle - Teaser</title>
+			<group>Seattle</group>
+			<featured>false</featured>
+			<youTubeId>lJUdJ8aozvQ</youTubeId>			
+			<categories>
+				<category>14-17</category>		
+				<category>16-24</category>				
+			</categories>
+		</video>
+		<video>
+			<title>EF Seattle - Olympia, Washington, USA</title>
+			<group>Seattle</group>
+			<featured>false</featured>
+			<youTubeId>eWgbjlRK8QI</youTubeId>			
+			<categories>
+				<category>14-17</category>		
+				<category>16-24</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to Boston</title>
+			<group>Boston</group>
+			<featured>false</featured>
+			<youTubeId>TRVbqjv4Lh0</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+		<video>
+			<title>EF Boston, USA</title>
+			<group>Boston</group>
+			<featured>false</featured>
+			<youTubeId>YUbX0hIxBDg</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to Honolulu</title>
+			<group>Honolulu</group>
+			<featured>false</featured>
+			<youTubeId>nJU9z-1ObKM</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to Miami Beach</title>
+			<group>Miami Beach</group>
+			<featured>false</featured>
+			<youTubeId>m6h4lveFmEk</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+				<category>25+</category>
+			</categories>
+		</video>
+		<video>
+			<title>EF Miami Beach, USA</title>
+			<group>Miami Beach</group>
+			<featured>false</featured>
+			<youTubeId>2EXXRiDuSrw</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+				<category>25+</category>
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to Chicago</title>
+			<group>Chicago</group>
+			<featured>false</featured>
+			<youTubeId>MZEglYL5WLA</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+				<category>25+</category>
+			</categories>
+		</video>
+		<video>
+			<title>EF Chicago, USA</title>
+			<group>Chicago</group>
+			<featured>false</featured>
+			<youTubeId>fJCqzjqzJtU</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+				<category>25+</category>
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to Santa Barbara</title>
+			<group>Santa Barbara</group>
+			<featured>false</featured>
+			<youTubeId>PxRz3Z-NOPg</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+		<video>
+			<title>EF Santa Barbara, USA</title>
+			<group>Santa Barbara</group>
+			<featured>false</featured>
+			<youTubeId>gStKKY56dqY</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>EF Language Courses Abroad</title>
+			<group>Austin</group>
+			<featured>false</featured>
+			<youTubeId>VgJ1It7Oaek</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>EF Language Courses Abroad</title>
+			<group>Atlanta</group>
+			<featured>false</featured>
+			<youTubeId>VgJ1It7Oaek</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to Toronto</title>
+			<group>Toronto</group>
+			<featured>false</featured>
+			<youTubeId>uQiWiY5Nz-s</youTubeId>			
+			<categories>
+				<category>14-17</category>	
+				<category>16-24</category>				
+				<category>25+</category>
+			</categories>
+		</video>
+		<video>
+			<title>EF Toronto, Canada</title>
+			<group>Toronto</group>
+			<featured>false</featured>
+			<youTubeId>aXRDXL-L2aE</youTubeId>			
+			<categories>
+				<category>14-17</category>	
+				<category>16-24</category>				
+				<category>25+</category>
+			</categories>
+		</video>
+
+
+		<video>
+			<title>Welcome to Vancouver</title>
+			<group>Vancouver</group>
+			<featured>false</featured>
+			<youTubeId>K8kba15boQ4</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+		<video>
+			<title>EF Vancouver, Canada</title>
+			<group>Vancouver</group>
+			<featured>false</featured>
+			<youTubeId>cASA5x9Ef_c</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to Sydney</title>
+			<group>Sydney</group>
+			<featured>false</featured>
+			<youTubeId>Q25A4mtwRFw</youTubeId>			
+			<categories>
+				<category>14-17</category>	
+				<category>16-24</category>				
+			</categories>
+		</video>
+		<video>
+			<title>EF Sydney, Australia</title>
+			<group>Sydney</group>
+			<featured>false</featured>
+			<youTubeId>rZ4i4gMdIGQ</youTubeId>			
+			<categories>
+				<category>14-17</category>	
+				<category>16-24</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to Auckland</title>
+			<group>Auckland</group>
+			<featured>false</featured>
+			<youTubeId>Vmw1KigLNhk</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+				<category>25+</category>
+			</categories>
+		</video>
+		<video>
+			<title>EF Auckland, Australia</title>
+			<group>Auckland</group>
+			<featured>false</featured>
+			<youTubeId>SQRqYy9pTN4</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+				<category>25+</category>
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to Brisbane</title>
+			<group>Brisbane</group>
+			<featured>false</featured>
+			<youTubeId>bG-5RPYNVNs</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+		<video>
+			<title>EF Brisbane, Australia</title>
+			<group>Brisbane</group>
+			<featured>false</featured>
+			<youTubeId>bnqqP-1XK3U</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to Melbourne</title>
+			<group>Melbourne</group>
+			<featured>false</featured>
+			<youTubeId>ThPesFGecJE</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to Cape Town</title>
+			<group>Cape Town</group>
+			<featured>false</featured>
+			<youTubeId>0lhwV62iKAM</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+				<category>25+</category>
+			</categories>
+		</video>
+		<video>
+			<title>EF Cape Town, South Africa</title>
+			<group>Cape Town</group>
+			<featured>false</featured>
+			<youTubeId>bnRuGq6Rr54</youTubeId>			
+			<categories>
+				<category>16-24</category>		
+				<category>25+</category>		
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to Singapore</title>
+			<group>Singapore</group>
+			<featured>false</featured>
+			<youTubeId>EJpsDZN6bNo</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to Barcelona</title>
+			<group>Barcelona</group>
+			<featured>false</featured>
+			<youTubeId>IpQK1EvuIhI</youTubeId>			
+			<categories>
+				<category>14-17</category>	
+				<category>16-24</category>				
+				<category>25+</category>		
+			</categories>
+		</video>
+		<video>
+			<title>EF Barcelona, Spain</title>
+			<group>Barcelona</group>
+			<featured>false</featured>
+			<youTubeId>O8S1CVYU978</youTubeId>			
+			<categories>
+				<category>14-17</category>		
+				<category>16-24</category>		
+				<category>25+</category>		
+			</categories>
+		</video>
+		<video>
+			<title>EF Barcelona, Spain</title>
+			<group>Barcelona</group>
+			<featured>false</featured>
+			<youTubeId>mdCF4XKFdsU</youTubeId>			
+			<categories>
+				<category>14-17</category>	
+				<category>16-24</category>		
+				<category>25+</category>				
+			</categories>
+		</video>
+		<video>
+			<title>EF Barcelona, Spain</title>
+			<group>Barcelona</group>
+			<featured>false</featured>
+			<youTubeId>1JIXpbXyRYM</youTubeId>			
+			<categories>
+				<category>16-24</category>			
+				<category>25+</category>			
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to Malaga</title>
+			<group>Barcelona</group>
+			<featured>false</featured>
+			<youTubeId>lOOogPITyIw</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+		<video>
+			<title>EF Malaga, Spain</title>
+			<group>Barcelona</group>
+			<featured>false</featured>
+			<youTubeId>vraTMd8gXEk</youTubeId>			
+			<categories>
+				<category>16-24</category>			
+			</categories>
+		</video>
+		<video>
+			<title>EF Malaga, Spain</title>
+			<group>Malaga</group>
+			<featured>false</featured>
+			<youTubeId>ZioWRMNBYAc</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to Munich</title>
+			<group>Munich</group>
+			<featured>false</featured>
+			<youTubeId>d079ZG-HdUk</youTubeId>			
+			<categories>
+				<category>14-17</category>	
+				<category>16-24</category>			
+				<category>25+</category>				
+			</categories>
+		</video>
+		<video>
+			<title>EF Munich, Germany</title>
+			<group>Munich</group>
+			<featured>false</featured>
+			<youTubeId>iIsGh44ddMI</youTubeId>			
+			<categories>
+				<category>14-17</category>	
+				<category>16-24</category>		
+				<category>25+</category>					
+			</categories>
+		</video>
+		<video>
+			<title>EF Munich, Germany</title>
+			<group>Munich</group>
+			<featured>false</featured>
+			<youTubeId>aaX6MVo6PZM</youTubeId>			
+			<categories>
+				<category>14-17</category>		
+				<category>16-24</category>		
+				<category>25+</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to Nice</title>
+			<group>Nice</group>
+			<featured>false</featured>
+			<youTubeId>rk8DF7Jon6k</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+		<video>
+			<title>EF Nice, France</title>
+			<group>Nice</group>
+			<featured>false</featured>
+			<youTubeId>YQ_AwTMlec8</youTubeId>			
+			<categories>
+				<category>16-24</category>			
+			</categories>
+		</video>
+		<video>
+			<title>EF Nice, France</title>
+			<group>Nice</group>
+			<featured>false</featured>
+			<youTubeId>hTNn8RBRCpE</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to Paris</title>
+			<group>Paris</group>
+			<featured>false</featured>
+			<youTubeId>VzBQqmWIRCw</youTubeId>			
+			<categories>
+				<category>16-24</category>			
+				<category>25+</category>			
+			</categories>
+		</video>
+		<video>
+			<title>EF Paris, France</title>
+			<group>Paris</group>
+			<featured>false</featured>
+			<youTubeId>T5IGNceLMH8</youTubeId>			
+			<categories>
+				<category>16-24</category>			
+			</categories>
+		</video>
+		<video>
+			<title>EF Paris, France</title>
+			<group>Paris</group>
+			<featured>false</featured>
+			<youTubeId>CsxGYZs-KOk</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to Shanghai</title>
+			<group>Shanghai</group>
+			<featured>false</featured>
+			<youTubeId>vicy97Bq4Ck</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+			</categories>
+		</video>
+		<video>
+			<title>EF Shanghai, China</title>
+			<group>Shanghai</group>
+			<featured>false</featured>
+			<youTubeId>7TsCgVjhOec</youTubeId>			
+			<categories>
+				<category>16-24</category>			
+			</categories>
+		</video>
+
+		<video>
+			<title>Welcome to Rome</title>
+			<group>Rome</group>
+			<featured>false</featured>
+			<youTubeId>K_Rz473Ons4</youTubeId>			
+			<categories>
+				<category>16-24</category>				
+				<category>25+</category>				
+			</categories>
+		</video>
+		
+		<video>
+			<title>Tokyo testvideo</title>
+			<group>Tokyo</group>
+			<featured>false</featured>
+			<youTubeId>soQY4-HFX9I</youTubeId>			
+			<categories>
+				<category>14-17</category>	
+				<category>16-24</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>Eastbourne testvideo</title>
+			<group>Eastbourne </group>
+			<featured>false</featured>
+			<youTubeId>soQY4-HFX9I</youTubeId>			
+			<categories>
+				<category>14-17</category>	
+				<category>16-24</category>				
+			</categories>
+		</video>
+
+		<video>
+			<title>Featured testvideo</title>
+			<group>Featured</group>
+			<featured>true</featured>
+			<youTubeId>soQY4-HFX9I</youTubeId>			
+			<categories>
+				<category>14-17</category>	
+				<category>16-24</category>				
+			</categories>
+		</video>
+		<video>
+			<title>Featured testvideo 2</title>
+			<group>Featured</group>
+			<featured>true</featured>
+			<youTubeId>soQY4-HFX9I</youTubeId>			
+			<categories>
+				<category>14-17</category>	
+				<category>16-24</category>				
+			</categories>
+		</video>
+	</videos>		
+</settings>
