@@ -14,9 +14,11 @@ I enjoy working in open source projects, my contributions mostly consists of sol
 
 ## Professional Experience
 
-### The Gang, Co-Founder <span class="pull-right">2013 - 2019</span>
+### The Gang, Co-Founder <span class="pull-right">2019 - Current</span>
 
 Building games and stuff.
+
+- One of the projects I am involved in is <a href="https://www.majorleaguecurveball.com/">Major League Curveball</a>, it is an online pvp game built in Unreal Engine 5. My responsibilties are mainly to build the backend, manage the infrastructure and UI development. The game will be distributed on <a href="https://store.steampowered.com/app/2805120/Major_League_Curveball/">Steam</a>.
 
 ### DigiExam, CTO <span class="pull-right">2013 - 2019</span>
 
