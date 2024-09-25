@@ -6,8 +6,6 @@ permalink: /author/
 
 **Born:** 1988-09-20<br>
 **Email:** me [at] robinwassen.com<br>
-**Phone:** +46 70-48 14 613<br>
-**Address:** Allévägen 14B, 167 52, Bromma, Sweden<br>
 **Other:** [GitHub](https://github.com/robinwassen), [Twitter](https://twitter.com/robinwassen)
 
 I enjoy working in open source projects, my contributions mostly consists of solving problems in existing projects rather than publishing my own. The best place to explore my OSS contributions is my [GitHub](https://github.com/robinwassen) profile.
@@ -16,7 +14,11 @@ I enjoy working in open source projects, my contributions mostly consists of sol
 
 ## Professional Experience
 
-### DigiExam, CTO <span class="pull-right">2013 - Current</span>
+### The Gang, Co-Founder <span class="pull-right">2013 - 2019</span>
+
+Building games and stuff.
+
+### DigiExam, CTO <span class="pull-right">2013 - 2019</span>
 
 - Designed and developed the backend in Go running on Google Cloud Platform. Using services such as App Engine, Datastore, BigQuery, Pub/Sub and Elastic search.
 - Designed and developed client applications for macOS, Windows, Chrome OS and iOS using Electron and AngularJS. Involved extending Electron and the WKWebView wrapper with native implementations in C / C++ / Objective-C++.
