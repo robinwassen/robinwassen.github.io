@@ -36,17 +36,20 @@ While developing [Blade Ball Arena](https://store.steampowered.com/app/2805120/B
 
 Looking in the logs we found the following:
 
-    [2025.02.19-09.55.39:190][ 36]LogHttp: Warning: 0000022F906E28F0: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
-    [2025.02.19-09.55.39:190][ 36]LogHttp: Warning: 0000022F906E28F0: libcurl info message cache 0 (Hostname a86igukp.api.lootlocker.com was found in DNS cache)
-    [2025.02.19-09.55.39:190][ 36]LogHttp: Warning: 0000022F906E28F0: libcurl info message cache 1 (  Trying 52.50.51.175:443...)
-    [2025.02.19-09.55.39:190][ 36]LogHttp: Warning: 0000022F906E28F0: libcurl info message cache 2 (Connected to a86igukp.api.lootlocker.com (52.50.51.175) port 443)
-    [2025.02.19-09.55.39:190][ 36]LogHttp: Warning: 0000022F906E28F0: libcurl info message cache 3 (ALPN: curl offers http/1.1)
-    [2025.02.19-09.55.39:190][ 36]LogHttp: Warning: 0000022F906E28F0: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
-    [2025.02.19-09.55.39:190][ 36]LogHttp: Warning: 0000022F906E28F0: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
-    [2025.02.19-09.55.39:190][ 36]LogHttp: Warning: 0000022F906E28F0: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
-    [2025.02.19-09.55.39:190][ 36]LogHttp: Warning: 0000022F906E28F0: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
-    [2025.02.19-09.55.39:190][ 36]LogHttp: Warning: 0000022F906E28F0: libcurl info message cache 8 (SSL certificate problem: unable to get local issuer certificate)
-    [2025.02.19-09.55.39:190][ 36]LogHttp: Warning: 0000022F906E28F0: libcurl info message cache 9 (Closing connection)
+
+{% highlight plaintext %}
+[2025.02.19-09.55.39:190][ 36]LogHttp: Warning: 0000022F906E28F0: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2025.02.19-09.55.39:190][ 36]LogHttp: Warning: 0000022F906E28F0: libcurl info message cache 0 (Hostname a86igukp.api.lootlocker.com was found in DNS cache)
+[2025.02.19-09.55.39:190][ 36]LogHttp: Warning: 0000022F906E28F0: libcurl info message cache 1 (  Trying 52.50.51.175:443...)
+[2025.02.19-09.55.39:190][ 36]LogHttp: Warning: 0000022F906E28F0: libcurl info message cache 2 (Connected to a86igukp.api.lootlocker.com (52.50.51.175) port 443)
+[2025.02.19-09.55.39:190][ 36]LogHttp: Warning: 0000022F906E28F0: libcurl info message cache 3 (ALPN: curl offers http/1.1)
+[2025.02.19-09.55.39:190][ 36]LogHttp: Warning: 0000022F906E28F0: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.02.19-09.55.39:190][ 36]LogHttp: Warning: 0000022F906E28F0: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.02.19-09.55.39:190][ 36]LogHttp: Warning: 0000022F906E28F0: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2025.02.19-09.55.39:190][ 36]LogHttp: Warning: 0000022F906E28F0: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2025.02.19-09.55.39:190][ 36]LogHttp: Warning: 0000022F906E28F0: libcurl info message cache 8 (SSL certificate problem: unable to get local issuer certificate)
+[2025.02.19-09.55.39:190][ 36]LogHttp: Warning: 0000022F906E28F0: libcurl info message cache 9 (Closing connection)
+{% endhighlight %}
 
 The interesting issue was that LootLocker's API failed in Unreal Engine, while our custom backend endpoints worked fine. Both APIs used Amazon-issued certificates and worked perfectly in browsers.
 

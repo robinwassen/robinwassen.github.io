@@ -1,5 +1,5 @@
 ---
-#
+# 
 ---
 @charset "utf-8";
 
@@ -99,6 +99,14 @@ table td {
 	border-style: solid;
 	border-color: #666666;
 	background-color: #ffffff;
+}
+
+.highlight {
+	border: 1px solid #999;
+	padding: 0px 5px;
+	overflow-x: scroll;
+	margin-left: 0px;
+	margin-right: 0px;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
