@@ -6,7 +6,7 @@ date:   2025-02-21
 
 # TLDR Version
 
-Amazon changed how they issue SSL certificates in the end of 2024, when certificates renew some Win 10 players get issues calling the HTTPS APIssince they don't have the Root CA Cert. To fix this you can bundle the Amazon CA Root Cert with your game.
+Amazon changed how they issue SSL certificates in the end of 2024, when certificates renew some Win 10 players get issues calling the HTTPS APIs since they don't have the Root CA Cert. To fix this you can bundle the Amazon CA Root Cert with your game.
 
 Only one root cert can be bundled with Unreal Engine games if you don't do engine modifications in `SslCertificateManager.cpp`, but we do not need that.
 
